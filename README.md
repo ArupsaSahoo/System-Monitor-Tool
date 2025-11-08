@@ -109,7 +109,7 @@ You can view the full project report (PDF) here:
 🧑‍💻 Author
 
 Arupsa Sahoo
-🎓 3rd Year, ITER, SOA University
+🎓 4th Year, ITER, SOA University
 📫 GitHub: https://github.com/ArupsaSahoo
 
 🏁 Conclusion
