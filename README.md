@@ -82,25 +82,6 @@ Screenshot 3: Killing a Process
 
 Screenshot 4: Real-time Update
 
-🌐 API Integration (Optional)
-
-You can extend this project by connecting to an API for fetching system statistics or remote monitoring.
-Use libcurl and nlohmann-json to make HTTP requests and parse responses.
-
-Example API call:
-
-curl_easy_setopt(curl, CURLOPT_URL, "https://api.github.com/users/octocat");
-
-🧩 Future Enhancements
-
-Add graphical visualization using ncurses or Qt
-
-Integrate remote system monitoring via API
-
-Export process data to CSV or JSON
-
-Add user authentication for multi-user environments
-
 📄 Project Report
 
 You can view the full project report (PDF) here:
