@@ -68,20 +68,6 @@ g++ system_monitor.cpp -o system_monitor
 🔹 Step 3: Run the Program
 ./system_monitor
 
-🧰 Output Snapshots
-
-📸 (Paste your screenshots below this section)
-
-Example:
-
-Screenshot 1: Initial Process List
-
-Screenshot 2: Sorting by CPU
-
-Screenshot 3: Killing a Process
-
-Screenshot 4: Real-time Update
-
 📄 Project Report
 
 You can view the full project report (PDF) here:
